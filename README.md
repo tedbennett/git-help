@@ -1,6 +1,6 @@
 ## Git Helper
 
-This is a tool written in Rust to assist with the Oh-my-zsh git plugin. The plugin provides useful aliases, and this is a simple lookup for them.
+This is a tool written in Rust to assist with the [Oh-my-zsh git plugin](https://github.com/ohmyzsh/ohmyzsh). The plugin provides useful aliases, and this is a simple lookup for them.
 
 ## Usage
 
