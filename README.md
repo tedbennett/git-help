@@ -22,6 +22,6 @@ Next, cd into the directory compile the binary. This might take a minute!
 
 Now, copy the binary to your PATH. You might need to use sudo for this.
 
-`cp target/release/git-help /bin/usr/local/bin/gh`
+`cp target/release/git-help /usr/local/bin/gh`
 
 This renames the binary to `gh` change the last part of the path in the second `cp` argument to change this.
